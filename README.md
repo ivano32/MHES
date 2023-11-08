@@ -7,15 +7,15 @@ The src/web folder will contain a program written in javascript so it runs on a 
 
 To run the programs on the src/c folder, on a mac or linux:
 
-  Clone the repository (google)
-  Install gcc with your package manager
-  cd /Users/yourname/thelocationwhereyouclone
-  gcc mhes.c -o mhes.out
-  ./mhes.out
+	Clone the repository (google)
+ 	Install gcc with your package manager
+  	cd /Users/yourname/thelocationwhereyouclone
+   	gcc mhes.c -o mhes.out
+    	./mhes.out
 
 On windows:
-  I don't know. You need gcc the open source compiler for C.
+	I don't know. You need gcc the open source compiler for C.
 
 To run the programs on the src/web folder, on any platform:
 
-	Just click on the html file.
+	Download the HTML file and open it.
