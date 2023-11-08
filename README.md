@@ -10,8 +10,8 @@ To run the programs on the src/c folder, on a mac or linux:
 	Clone the repository (google)
  	Install gcc with your package manager
   	cd /Users/yourname/thelocationwhereyouclone
-   	gcc mhes.c -o mhes.out
-    	./mhes.out
+	gcc mhes.c -o mhes.out
+	./mhes.out
 
 On windows:
 	I don't know. You need gcc the open source compiler for C.
